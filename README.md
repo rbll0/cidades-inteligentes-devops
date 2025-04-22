@@ -18,7 +18,7 @@ Este projeto é uma API desenvolvida com **Spring Boot**, utilizando banco de da
 ## 📁 Estrutura do Projeto
 
 ```
-Ὄ2 src
+ src
  ├── 📂 main
  │ ├── 📂 java
  │ └── 📂 resources
