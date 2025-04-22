@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  cidades-api:
+    build: .
+    container_name: cidades_api
+    ports:
+      - "8080:8080"
